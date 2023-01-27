@@ -1,0 +1,22 @@
+﻿  FileManager.cpp
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(160,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(184,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\FileManager.cpp(187,21): warning C4018: '<': signed/unsigned mismatch
+  User.cpp
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(249,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(304,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(316,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(358,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\DsProject\DsProject\User.cpp(368,59): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  DsProject.vcxproj -> C:\Users\HP\source\repos\DsProject\Debug\DsProject.exe
